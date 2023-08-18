@@ -1,0 +1,165 @@
+[
+    {
+        "id": "RU",
+        "name": "Rajshahi University",
+        "location": "Rajshahi, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, interview, etc.",
+        "programs_offered": ["Arts", "Science", "Business"],
+        "website": "https://www.ru.ac.bd"
+    },
+    {
+        "id": "KU",
+        "name": "Khulna University",
+        "location": "Khulna, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, portfolio, etc.",
+        "programs_offered": ["Science", "Engineering", "Business"],
+        "website": "https://www.ku.ac.bd"
+    },
+    {
+        "id": "JU",
+        "name": "Jahangirnagar University",
+        "location": "Savar, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, interview, etc.",
+        "programs_offered": ["Arts", "Science", "Social Science"],
+        "website": "https://www.juniv.edu"
+    },
+    {
+        "id": "BUP",
+        "name": "Bangladesh University of Professionals (BUP)",
+        "location": "Dhaka, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, interview, etc.",
+        "programs_offered": ["Public Administration", "International Relations", "Security Studies"],
+        "website": "https://www.bup.edu.bd"
+    },
+    {
+        "id": "SUST",
+        "name": "Shahjalal University of Science and Technology (SUST)",
+        "location": "Sylhet, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, etc.",
+        "programs_offered": ["Engineering", "Science", "Business"],
+        "website": "https://www.sust.edu"
+    },
+    {
+        "id": "CUET",
+        "name": "Chittagong University of Engineering and Technology (CUET)",
+        "location": "Chittagong, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, interview, etc.",
+        "programs_offered": ["Engineering", "Architecture", "Planning"],
+        "website": "https://www.cuet.ac.bd"
+    },
+    {
+        "id": "NSU",
+        "name": "North South University",
+        "location": "Dhaka, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, interview, etc.",
+        "programs_offered": ["Business Administration", "Computer Science", "Engineering"],
+        "website": "https://www.northsouth.edu"
+    },
+    {
+        "id": "IU",
+        "name": "Islamic University Bangladesh",
+        "location": "Kushtia, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, interview, etc.",
+        "programs_offered": ["Islamic Studies", "Humanities", "Science"],
+        "website": "https://www.iu.ac.bd"
+    },
+    {
+        "id": "BAU",
+        "name": "Bangladesh Agricultural University (BAU)",
+        "location": "Mymensingh, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, practical exam, etc.",
+        "programs_offered": ["Agriculture", "Fisheries", "Veterinary Science"],
+        "website": "https://www.bau.edu.bd"
+    },
+    {
+        "id": "NU",
+        "name": "National University Bangladesh",
+        "location": "Gazipur, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, etc.",
+        "programs_offered": ["Arts", "Science", "Business"],
+        "website": "https://www.nu.ac.bd"
+    },
+    {
+        "id": "EWU",
+        "name": "East West University",
+        "location": "Dhaka, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, interview, etc.",
+        "programs_offered": ["Business Administration", "Computer Science", "Social Sciences"],
+        "website": "https://www.ewubd.edu"
+    },
+    {
+        "id": "JUST",
+        "name": "Jessore University of Science and Technology (JUST)",
+        "location": "Jessore, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, etc.",
+        "programs_offered": ["Engineering", "Science", "Business"],
+        "website": "https://www.just.edu.bd"
+    },
+    {
+        "id": "BRUR",
+        "name": "Begum Rokeya University, Rangpur",
+        "location": "Rangpur, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, interview, etc.",
+        "programs_offered": ["Arts", "Science", "Social Science"],
+        "website": "https://www.brur.ac.bd"
+    },
+    {
+        "id": "NSTU",
+        "name": "Noakhali Science and Technology University (NSTU)",
+        "location": "Noakhali, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, etc.",
+        "programs_offered": ["Engineering", "Science", "Business"],
+        "website": "https://www.nstu.edu.bd"
+    },
+    {
+        "id": "HSTU",
+        "name": "Hajee Mohammad Danesh Science and Technology University (HSTU)",
+        "location": "Dinajpur, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, interview, etc.",
+        "programs_offered": ["Agriculture", "Fisheries", "Veterinary Science"],
+        "website": "https://www.hstu.ac.bd"
+    },
+    {
+        "id": "DIU",
+        "name": "Daffodil International University",
+        "location": "Dhaka, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, interview, etc.",
+        "programs_offered": ["Business Administration", "Computer Science", "Engineering"],
+        "website": "https://www.daffodilvarsity.edu.bd"
+    },
+    {
+        "id": "PSTU",
+        "name": "Patuakhali Science and Technology University (PSTU)",
+        "location": "Patuakhali, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, etc.",
+        "programs_offered": ["Agriculture", "Fisheries", "Veterinary Science"],
+        "website": "https://www.pstu.ac.bd"
+    }, 
+    {
+        "id": "IU",
+        "name": "Islamic University Bangladesh",
+        "location": "Kushtia, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, interview, etc.",
+        "programs_offered": ["Islamic Studies", "Humanities", "Science"],
+        "website": "https://www.iu.ac.bd"
+    },
+    
+    {
+        "id": "BAU",
+        "name": "Bangladesh Agricultural University (BAU)",
+        "location": "Mymensingh, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, practical exam, etc.",
+        "programs_offered": ["Agriculture", "Fisheries", "Veterinary Science"],
+        "website": "https://www.bau.edu.bd"
+    },
+    
+    {
+        "id": "NU",
+        "name": "National University Bangladesh",
+        "location": "Gazipur, Bangladesh",
+        "admission_requirements": "Minimum SSC/HSC GPA, admission test, etc.",
+        "programs_offered": ["Arts", "Science", "Business"],
+        "website": "https://www.nu.ac.bd"
+    }
+    
+]
